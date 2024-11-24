@@ -15,7 +15,7 @@ I enjoy sharing insights, tips, and tutorials on various platforms to help other
 ## 🌐 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/hendro-wunga-91b5a5258/)
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### 📝 Languages:
 <p>
