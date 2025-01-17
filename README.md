@@ -14,23 +14,23 @@
 
 ---
 
-## 💫 About Me:
+## 💫 About Me
 - 🎓 I am a third-year **Computer Engineering student**.
 - 🤖 Exploring **Machine Learning** with [scikit-learn](https://scikit-learn.org/).
 - 💻 Developing and deploying **Spring Boot applications** with **PostgreSQL** as the database.
 
 ---
 
-## 🚀 Tech Stack:
+## 🚀 Tech Stack
 
-### 📝 Programming Languages:
+### 📝 Programming Languages
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-07405E?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 🔧 Frameworks and Tools:
+### 🔧 Frameworks and Tools
 <p align="center">
   <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -40,7 +40,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🛠 Developer Tools:
+### 🛠 Developer Tools
 <p align="center">
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -51,11 +51,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=hendrowunga&show_icons=true&theme=radical" alt="Hendro Wunga's GitHub Stats" width="400" height="200" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hendrowunga&layout=compact&theme=radical" alt="Top Languages" width="400" height="200" />    
-</p>  
   
   
 
