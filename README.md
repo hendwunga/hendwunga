@@ -6,12 +6,13 @@
   A passionate third-year Computer Engineering student at Sanata Dharma University with a keen interest in coding, machine learning, and building scalable applications.  
 </p>  
   
-<!-- Badges for Connect -->  
 <p align="center">    
   <a href="https://www.instagram.com/hendrowunga7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>    
   <a href="https://www.linkedin.com/in/hendro-wunga-91b5a5258/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>    
   <a href="mailto:hendrowunga073@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>    
-</p>    
+  <a href="https://www.tiktok.com/@hend_tech"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>  
+</p>  
+   
   
 ---  
   
