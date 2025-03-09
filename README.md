@@ -3,29 +3,29 @@
   
 <!-- Profile Description -->  
 <p align="center">  
-  A passionate third-year Computer Engineering student at Sanata Dharma University with a keen interest in coding, machine learning, and building scalable applications.  
+  A dedicated third-year Computer Engineering student at Sanata Dharma University, passionate about network simulations, distributed systems, and building scalable applications.  
 </p>  
   
+<!-- Social Media Links -->  
 <p align="center">    
   <a href="https://www.instagram.com/hendrowunga7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>    
   <a href="https://www.linkedin.com/in/hendro-wunga-91b5a5258/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>    
   <a href="mailto:hendrowunga073@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>    
   <a href="https://www.tiktok.com/@hend_tech"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/></a>  
 </p>  
-   
   
 ---  
   
 ## 💫 About Me  
-- 🎓 I am a third-year **Computer Engineering student** passionate about network simulations and distributed systems.  
-- 🌍 Exploring **The Opportunistic Network Environment (ONE)** for Delay Tolerant Networking (DTN) simulations. [Learn more](https://akeranen.github.io/the-one/)  
-- 💻 Developing and deploying **Spring Boot applications** with **PostgreSQL** as the primary database.  
-- 📊 Enthusiastic about data-driven analysis, leveraging simulations to optimize routing protocols.  
+- 🎓 **Computer Engineering student** with a strong foundation in network simulations and system architecture.  
+- 🌍 Passionate about **The Opportunistic Network Environment (ONE)** for Delay Tolerant Networking (DTN) simulations. [Explore](https://akeranen.github.io/the-one/)  
+- 💻 Experienced in developing **Spring Boot applications** with **PostgreSQL** and scalable backend architectures.  
+- 📊 Enthusiastic about **data-driven analysis**, leveraging simulations to optimize routing protocols.  
 
 ---  
   
 ## 🚀 Tech Stack  
-  
+
 ### 📝 Programming Languages  
 <p align="center">  
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
