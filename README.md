@@ -17,10 +17,11 @@
 ---  
   
 ## 💫 About Me  
-- 🎓 I am a third-year **Computer Engineering student**.  
-- 🤖 Exploring **Machine Learning** with [scikit-learn](https://scikit-learn.org/).  
-- 💻 Developing and deploying **Spring Boot applications** with **PostgreSQL** as the database.  
-  
+- 🎓 I am a third-year **Computer Engineering student** passionate about network simulations and distributed systems.  
+- 🌍 Exploring **The Opportunistic Network Environment (ONE)** for Delay Tolerant Networking (DTN) simulations. [Learn more](https://akeranen.github.io/the-one/)  
+- 💻 Developing and deploying **Spring Boot applications** with **PostgreSQL** as the primary database.  
+- 📊 Enthusiastic about data-driven analysis, leveraging simulations to optimize routing protocols.  
+
 ---  
   
 ## 🚀 Tech Stack  
