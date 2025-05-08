@@ -66,6 +66,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="VMWare" src="https://img.shields.io/badge/VMWare_Workstation_Pro-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img alt="GNS3" src="https://img.shields.io/badge/GNS3-007ACC?style=for-the-badge&logo=gns3&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
