@@ -6,8 +6,21 @@
 </br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" alt="Java Developer Animated GIF" />
+  <a href="https://portopad.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450px" alt="Java Developer Animated GIF" />
+  </a>
 </p>
+
+
+<div align="center">
+  <a href="https://portopad.vercel.app/" title="Visit My Portfolio" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit My Portfolio"/>
+
+  </a>
+  <p><em>Click badge to visit my portfolio.</em></p>
+</div>
+
+
 
 ---
 </br>
