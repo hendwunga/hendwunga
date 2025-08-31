@@ -1,5 +1,5 @@
 <!-- Profile Heading with Typing Animation -->
-<h1 align="center">Hi 👋, I'm Hendro Wunga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>  
+<h1 align="center">Hi 👋, I'm Hend Wunga <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?lines=Computer+Engineering+Student;DevOps+Practitioner;Backend+Developer;DTN+%26+Network+Simulations&center=true&width=500&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 </p>  
