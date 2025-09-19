@@ -102,7 +102,7 @@
 </br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hendrowunga&show_icons=true&theme=radical&hide=stars&count_private=true&bg_color=000000&title_color=00bfff&text_color=ffffff&icon_color=00bfff" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hendwunga&show_icons=true&theme=radical&hide=stars&count_private=true&bg_color=000000&title_color=00bfff&text_color=ffffff&icon_color=00bfff" height="200"/>
 </p>
 
 
